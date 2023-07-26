@@ -1,0 +1,6 @@
+.venv
+.env
+env
+.ipynb_checkpoints/
+swft_faq.txt
+
